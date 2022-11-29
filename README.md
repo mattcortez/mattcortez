@@ -1,6 +1,6 @@
-### Hi there 👋
-- 🔭 I’m currently working on bae.ts
-- 👨‍💻 Writing in JavaScript / TypeScript
+### Hi there 
+- hello
+- hey
 
 
 <!--
