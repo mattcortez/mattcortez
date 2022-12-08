@@ -1,6 +1,6 @@
-### Hi there 
-- hello
-- hey
+```zsh
+> pwsh
+```
 
 
 <!--
